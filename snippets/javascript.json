@@ -27,6 +27,13 @@
         ],
         "description": "Code snippet for \"console.log\""
     },
+    "console.ll": {
+        "prefix": "cll",
+        "body": [
+            "console.log('$1', $1);"
+        ],
+        "description": "Code snippet for \"console.log\""
+    },    
     "console.warn": {
         "prefix": "cw",
         "body": [
